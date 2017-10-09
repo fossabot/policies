@@ -1,4 +1,6 @@
 # Catalyze HIPAA Compliance Policies
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Fpolicies.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Fpolicies?ref=badge_shield)
+
 
 HIPAA compliance is complicated, but it doesn't have to be. Catalyze helps relieve the technical burden with our HIPAA-compliant cloud computing platform and solutions for healthcare.
 
@@ -38,6 +40,9 @@ To get in touch, shoot us an email at [hello@catalyze.io](mailto:hello@catalyze.
 
 All policies are licensed under [CC BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/).
 
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Fpolicies.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Fpolicies?ref=badge_large)
+
 ### Policy Index
 
 Each policy is included as it's own markdown file in case you want to cherry pick specific policies. If you currently have no policies in place, we encourage you to consider utilizing all policies.
@@ -67,6 +72,3 @@ Each policy is included as it's own markdown file in case you want to cherry pic
 * [Key Definitions](key_definitions.md)
 * [Catalyze HIPAA Business Associate Agreement (“BAA”)](catalyze_hipaa_business_associate_agreement.md)
 * [HIPAA Mappings to Catalyze Controls](hipaa_mapping_to_catalyze_controls.md)
-
-
-
